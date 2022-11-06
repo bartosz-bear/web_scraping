@@ -2,12 +2,11 @@ import os
 from bottle import route, run, template, get, post, request
 from scraper import scrap, get_dropdown_choices
 
-index_html = '''My first web app!.'''
+index_html = '''My first web app! By <strong>{{ author }}</strong>.'''
 
 @route('/')
 def index():
-
-    return template(index_html, author='Real Python')
+    return template(index_html, author='Tim')
 
 @route('/name/<name>')
 def name(name):
@@ -92,10 +91,9 @@ def submit():
         )
 
 
-run(host='0.0.0.0', port=8080)
+#run(host='0.0.0.0', port=8080)
 
-"""
+
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 8080))
     run(host='0.0.0.0', port=port, debug=True)
-"""
