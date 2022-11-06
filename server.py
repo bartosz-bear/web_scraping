@@ -2,13 +2,10 @@ import os
 from bottle import route, run, template, get, post, request
 from scraper import scrap, get_dropdown_choices
 
-index_html = '''My first web app! By <strong>{{ author }}</strong>.'''
-
+index_html = '''My first web app!.'''
 
 @route('/')
 def index():
-
-
 
     return template(index_html, author='Real Python')
 
