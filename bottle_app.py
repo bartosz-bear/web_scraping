@@ -2,6 +2,16 @@ import os
 from bottle import run, template, get, post, request
 from scraper import scrap, get_dropdown_choices
 
+"""
+This code works on PythonAnywhere service. Replace the imports about with the code below if you want to deploy this
+on PythonAnywhere.
+
+from bottle import default_app, route, run, template, get, post, request
+from importlib.machinery import SourceFileLoader
+
+scraper = SourceFileLoader("module.scraper", "/home/bartoszbear/mysite/./scraper.py").load_module()
+from scraper import scrap, get_dropdown_choices
+"""
 @get('/get_courses')
 def form():
 
