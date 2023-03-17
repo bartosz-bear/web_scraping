@@ -7,7 +7,6 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 import re
-
 import time
 
 ROOT = "https://www.coursera.org/"
@@ -137,18 +136,19 @@ def get_ratings(soup):
 
 def scrap(category):
     """
-    Gets a single course category and saves all courses from this category as .csv file. Returns a list of courses
+    Gets a single course category and saves all courses from this category as .xslx file. Returns a list of courses
     with features.
 
-    CSV file contains following categories: Course Name, Course Category, Instructor, Description, # of Students
+    Excel file contains following categories: Course Name, Course Category, Instructor, Description, # of Students
     Enrolled, # of Ratings.
 
     In case, the course hasn't started yet (therefore has no ratings and no students enrolled), this information
-    is shown in the .csv file in the following way: "Description": "The course hasn't started yet", "# of Students
+    is shown in the .xlsx file in the following way: "Description": "The course hasn't started yet", "# of Students
     Enrolled": 0, "# of Ratings": 0
 
     DISCLAIMER: This function is designed to work with the server back end. In order to run it locally, pass the
-    category argument in the following format: scrap('data-science')
+    category argument in the following format: scrap('data-science'). You can choose from the following categories:
+    ['data-science', 'business', 'personal-development', 'language-learning', 'math-and-logic', 'physical-science-and-engineering]
     """
 
     courses = get_summary_page(category)
