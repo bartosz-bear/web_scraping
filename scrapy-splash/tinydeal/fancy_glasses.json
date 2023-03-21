@@ -1,0 +1,1745 @@
+[
+  {
+    "name": "Virgo",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1790",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1790.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Marian",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1691",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1691.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Yves",
+    "price": "$55.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/st0273",
+    "product_image_url": "https://res.glassesshop.com/tryon/st0273.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Hannah",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2514",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2514.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Memphis",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1740",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1740.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Traverse",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1814",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1814.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Cooksville",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2010",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2010.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Taurus",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2071",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2071.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Bronx",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1979",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1979.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Lydia",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2434",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2434.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Flushing",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1972",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1972.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Gulfport",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2106",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2106.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Poppy",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1032",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1032.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Oberlin",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2035",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2035.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Pisces",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2611",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2611.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Celia",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1387",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1387.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Prince",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1438",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1438.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Water",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2468",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2468.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Libra",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2047",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2047.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Lyndon",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1286",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1286.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Bruno",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1506",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1506.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Roderick",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2582",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2582.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Asheville",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1991",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1991.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Fitchburg",
+    "price": "$9.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2383",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2383.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Hodgson",
+    "price": "$35.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2625",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2625.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Althea",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2111",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2111.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Jacksonville",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2183",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2183.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Bray",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1923",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1923.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Haywood",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1354",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1354.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Miami",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1391",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1391.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Pasadena",
+    "price": "$13.48",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2522",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2522.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Evanston",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup0791",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup0791.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Burke",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1244",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1244.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Joplin",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1491",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1491.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Christian",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup0759",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup0759.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Aubrey",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1711",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1711.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Derrick",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1661",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1661.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Annabel",
+    "price": "$39.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0304",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0304.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Dominic",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2149",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2149.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Matthew",
+    "price": "$39.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sm0752",
+    "product_image_url": "https://res.glassesshop.com/tryon/sm0752.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Indianapolis",
+    "price": "$9.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2158",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2158.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Pete",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1207",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1207.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Milne",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1358",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1358.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Fresno",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2038",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2038.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Denise",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2298",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2298.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Chamomile",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1282",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1282.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Murphy",
+    "price": "$39.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1746",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1746.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Maltz",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1370",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1370.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Modesto",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1654",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1654.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Willie",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sm0860",
+    "product_image_url": "https://res.glassesshop.com/tryon/sm0860.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Endicott",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1392",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1392.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Naperville",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2190",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2190.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Katherine",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2608",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2608.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Walnut",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup0823",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup0823.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Kitty",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1658",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1658.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Hedy",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1608",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1608.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Prairie",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1461",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1461.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Niki",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2490",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2490.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Mason",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1641",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1641.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Smollett",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1819",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1819.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers"
+  },
+  {
+    "name": "Joni",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2024",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2024.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Lexingto",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1695",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1695.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Whittier",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1313",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1313.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Toledo",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1405",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1405.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Hume",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1297",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1297.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Worcester",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2484",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2484.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Michelle",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1175",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1175.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Traverse",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1814",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1814.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Butler",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1841",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1841.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Riverside",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1385",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1385.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Belle",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1768",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1768.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Gaskell",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup0568",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup0568.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Evansville",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1363",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1363.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Watertown",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1804",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1804.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Jean",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1719",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1719.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Altus",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2643",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2643.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Tower",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2330",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2330.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Vivian",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1250",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1250.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Louise",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1736",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1736.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Salisbury",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2105",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2105.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Marlowe",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup0711",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup0711.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Labrador",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1988",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1988.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Gladys",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2188",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2188.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Owensboro",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2193",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2193.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Enoch",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1159",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1159.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Union",
+    "price": "$35.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1750",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1750.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Dinas",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1947",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1947.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Ethel",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2544",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2544.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Attis",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1394",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1394.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Omar",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1271",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1271.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Mamie",
+    "price": "$5.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1564",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1564.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Abina",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1938",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1938.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Husk",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1836",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1836.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Wilker",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup0622",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup0622.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Dean",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1285",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1285.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Ezekiel",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1279",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1279.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Jackson",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2247",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2247.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Rochester",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1263",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1263.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Iowa",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1015",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1015.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Placerville",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz2025",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz2025.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Knoxville",
+    "price": "$45.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2419",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2419.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Virgo",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1790",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1790.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Lora",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1354",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1354.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Stephen",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sm0897",
+    "product_image_url": "https://res.glassesshop.com/tryon/sm0897.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Richfield",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/rm0307",
+    "product_image_url": "https://res.glassesshop.com/tryon/rm0307.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Fernando",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sm0945",
+    "product_image_url": "https://res.glassesshop.com/tryon/sm0945.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Jerry",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1593",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1593.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Genevieve",
+    "price": "$34.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1268",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1268.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Plains",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2026",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2026.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Sheridan",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz2017",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz2017.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Kitchener",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sm0907",
+    "product_image_url": "https://res.glassesshop.com/tryon/sm0907.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Rebecca",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2646",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2646.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Payne",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1297",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1297.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Smith",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1419",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1419.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Mandy",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1090",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1090.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Isaiah",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1644",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1644.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Rainbow",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2013",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2013.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Houma",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2233",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2233.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Anna",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2485",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2485.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Holt",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1401",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1401.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=2"
+  },
+  {
+    "name": "Muskegon",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2641",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2641.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Bellevue",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1894",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1894.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Martin",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sm0793",
+    "product_image_url": "https://res.glassesshop.com/tryon/sm0793.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Dinah",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2447",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2447.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Orleans",
+    "price": "$49.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0459",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0459.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Lindsay",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1382",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1382.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Tiffen",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1443",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1443.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Donna",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz2014",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz2014.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Nicole",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1083",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1083.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Astrid",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1500",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1500.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Hillsborough",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp0989",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp0989.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Vanessa",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2565",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2565.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Barret",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1565",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1565.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Arlene",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1762",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1762.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Coolidge",
+    "price": "$5.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1168",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1168.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Waukegan",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1900",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1900.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Debby",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1767",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1767.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Amos",
+    "price": "$45.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2420",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2420.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Wood",
+    "price": "$9.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1281",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1281.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Stuart",
+    "price": "$39.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0602",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0602.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Clark",
+    "price": "$54.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0482",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0482.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Frederic",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1634",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1634.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Averies",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1828",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1828.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Bernardino",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup0748",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup0748.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Creston",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1689",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1689.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Adam",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1543",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1543.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "AnnArbor",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/rm0311",
+    "product_image_url": "https://res.glassesshop.com/tryon/rm0311.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Freda",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2457",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2457.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Felix",
+    "price": "$39.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1724",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1724.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Lina",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1988",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1988.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Bristol",
+    "price": "$45.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2418",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2418.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Trenton",
+    "price": "$9.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1231",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1231.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Gainesville",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2628",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2628.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Zora",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1235",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1235.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Reno",
+    "price": "$44.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1087",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1087.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Niagara",
+    "price": "$45.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0526",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0526.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Woolf",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2491",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2491.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Noyes",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1777",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1777.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Stone",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2594",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2594.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Portgas",
+    "price": "$34.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1337",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1337.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Christine",
+    "price": "$44.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1520",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1520.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "FortMyers",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2587",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2587.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Brunswick",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1017",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1017.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Bobosa",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1375",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1375.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Owen",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1651",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1651.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Hoyle",
+    "price": "$39.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz2026",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz2026.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Egbert",
+    "price": "$54.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/rm0327",
+    "product_image_url": "https://res.glassesshop.com/tryon/rm0327.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Conrad",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sm0943",
+    "product_image_url": "https://res.glassesshop.com/tryon/sm0943.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Galveston",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1101",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1101.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Dubois",
+    "price": "$49.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0326",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0326.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Gracie",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1797",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1797.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Megan",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup0828",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup0828.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Aurora",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup0795",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup0795.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Eunice",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1801",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1801.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Schenectady",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1255",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1255.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Robben",
+    "price": "$39.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0242",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0242.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Olivia",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1344",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1344.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Susanna",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1748",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1748.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Orlando",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2269",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2269.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Mark",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sm0936",
+    "product_image_url": "https://res.glassesshop.com/tryon/sm0936.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=3"
+  },
+  {
+    "name": "Salem",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz2020",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz2020.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Sid",
+    "price": "$34.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup0509",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup0509.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Marian",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1691",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1691.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Adolph",
+    "price": "$55.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1964",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1964.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Cecilia",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2340",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2340.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Angel",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1646",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1646.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Ames",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1916",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1916.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Doris",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2526",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2526.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Lombard",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1716",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1716.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Elroy",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1014",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1014.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Baldwin",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1618",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1618.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Newark",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1372",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1372.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Marguerite",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/rm0315",
+    "product_image_url": "https://res.glassesshop.com/tryon/rm0315.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Miranda",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2325",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2325.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Tacoma",
+    "price": "$34.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/spfm014",
+    "product_image_url": "https://res.glassesshop.com/tryon/spfm014.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Cedric",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1716",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1716.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Tacab",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1831",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1831.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Huggins",
+    "price": "$39.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0276",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0276.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "City",
+    "price": "$35.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1601",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1601.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Pittsfield",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2596",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2596.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Wilsen",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1315",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1315.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Tate",
+    "price": "$34.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1315",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1315.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Westlake",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1574",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1574.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "John",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1669",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1669.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Altoona",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1913",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1913.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Pangnirtung",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1233",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1233.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Montgomery",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2393",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2393.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Methuen",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2663",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2663.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Yvette",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2563",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2563.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Woolley",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2547",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2547.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Berenice",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1291",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1291.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Tallahassee",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2497",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2497.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Manhattan",
+    "price": "$44.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0425",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0425.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Gadsden",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/rm0314",
+    "product_image_url": "https://res.glassesshop.com/tryon/rm0314.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Alvin",
+    "price": "$54.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0558",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0558.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Bevis",
+    "price": "$35.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1494",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1494.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Terre",
+    "price": "$32.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/rm0247",
+    "product_image_url": "https://res.glassesshop.com/tryon/rm0247.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Booth",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/spfm033",
+    "product_image_url": "https://res.glassesshop.com/tryon/spfm033.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Agatha",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1934",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1934.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Eagle",
+    "price": "$32.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1994",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1994.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Caroline",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1589",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1589.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Buckeye",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1092",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1092.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Leigh",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1989",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1989.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Dora",
+    "price": "$45.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz2031",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz2031.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Audrey",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2100",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2100.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Theresa",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2499",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2499.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Peak",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1636",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1636.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Warren",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1947",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1947.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Boris",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1050",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1050.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Rouge",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1575",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1575.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Platteville",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2507",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2507.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Paul",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fm1707",
+    "product_image_url": "https://res.glassesshop.com/tryon/fm1707.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Anniston",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sm0949",
+    "product_image_url": "https://res.glassesshop.com/tryon/sm0949.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Lagrange",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1857",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1857.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Will",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1273",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1273.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Mankato",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1475",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1475.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Curitis",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/rm0321",
+    "product_image_url": "https://res.glassesshop.com/tryon/rm0321.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Alieen",
+    "price": "$45.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0595",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0595.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Mavis",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2438",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2438.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Hyannis",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp1110",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp1110.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=4"
+  },
+  {
+    "name": "Odelette",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2588",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2588.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=5"
+  },
+  {
+    "name": "Road",
+    "price": "$29.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/spfm021",
+    "product_image_url": "https://res.glassesshop.com/tryon/spfm021.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=5"
+  },
+  {
+    "name": "Capricorn",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fz1676",
+    "product_image_url": "https://res.glassesshop.com/tryon/fz1676.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=5"
+  },
+  {
+    "name": "Jungle",
+    "price": "$19.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp2011",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp2011.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=5"
+  },
+  {
+    "name": "Broderick",
+    "price": "$26.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1275",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1275.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=5"
+  },
+  {
+    "name": "Cloud",
+    "price": "$45.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/sup1240",
+    "product_image_url": "https://res.glassesshop.com/tryon/sup1240.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=5"
+  },
+  {
+    "name": "Benedict",
+    "price": "$59.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0402",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0402.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=5"
+  },
+  {
+    "name": "Mobile",
+    "price": "$39.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/ft0359",
+    "product_image_url": "https://res.glassesshop.com/tryon/ft0359.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=5"
+  },
+  {
+    "name": "BowlingGreen",
+    "price": "$12.95",
+    "product_ulr": "https://www.glassesshop.com/eyeglasses/fp0917",
+    "product_image_url": "https://res.glassesshop.com/tryon/fp0917.png?im=Resize,width=600,height=300",
+    "current_page_url": "https://www.glassesshop.com/bestsellers?page=5"
+  }
+]

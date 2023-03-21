@@ -1,0 +1,686 @@
+[
+  {
+    "country_name": "Afghanistan",
+    "debt_to_gdp": "7.4"
+  },
+  {
+    "country_name": "Albania",
+    "debt_to_gdp": "78.1"
+  },
+  {
+    "country_name": "Algeria",
+    "debt_to_gdp": "62.5"
+  },
+  {
+    "country_name": "Angola",
+    "debt_to_gdp": "85"
+  },
+  {
+    "country_name": "Argentina",
+    "debt_to_gdp": "80.5"
+  },
+  {
+    "country_name": "Armenia",
+    "debt_to_gdp": "60.25"
+  },
+  {
+    "country_name": "Australia",
+    "debt_to_gdp": "36.1"
+  },
+  {
+    "country_name": "Austria",
+    "debt_to_gdp": "82.8"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "debt_to_gdp": "18.2"
+  },
+  {
+    "country_name": "Bahamas",
+    "debt_to_gdp": "95.6"
+  },
+  {
+    "country_name": "Bahrain",
+    "debt_to_gdp": "120"
+  },
+  {
+    "country_name": "Bangladesh",
+    "debt_to_gdp": "33.9"
+  },
+  {
+    "country_name": "Belarus",
+    "debt_to_gdp": "33.5"
+  },
+  {
+    "country_name": "Belgium",
+    "debt_to_gdp": "108"
+  },
+  {
+    "country_name": "Belize",
+    "debt_to_gdp": "74.5"
+  },
+  {
+    "country_name": "Benin",
+    "debt_to_gdp": "47.2"
+  },
+  {
+    "country_name": "Bhutan",
+    "debt_to_gdp": "135"
+  },
+  {
+    "country_name": "Bolivia",
+    "debt_to_gdp": "82.6"
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "debt_to_gdp": "24.8"
+  },
+  {
+    "country_name": "Botswana",
+    "debt_to_gdp": "24.2"
+  },
+  {
+    "country_name": "Brazil",
+    "debt_to_gdp": "80.27"
+  },
+  {
+    "country_name": "Brunei",
+    "debt_to_gdp": "1.9"
+  },
+  {
+    "country_name": "Bulgaria",
+    "debt_to_gdp": "23"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "debt_to_gdp": "59.6"
+  },
+  {
+    "country_name": "Burundi",
+    "debt_to_gdp": "17"
+  },
+  {
+    "country_name": "Cambodia",
+    "debt_to_gdp": "36.8"
+  },
+  {
+    "country_name": "Cameroon",
+    "debt_to_gdp": "46.8"
+  },
+  {
+    "country_name": "Canada",
+    "debt_to_gdp": "113"
+  },
+  {
+    "country_name": "Cape Verde",
+    "debt_to_gdp": "130"
+  },
+  {
+    "country_name": "Cayman Islands",
+    "debt_to_gdp": "4.5"
+  },
+  {
+    "country_name": "Central African Republic",
+    "debt_to_gdp": "52.1"
+  },
+  {
+    "country_name": "Chad",
+    "debt_to_gdp": "44.7"
+  },
+  {
+    "country_name": "Chile",
+    "debt_to_gdp": "36.3"
+  },
+  {
+    "country_name": "China",
+    "debt_to_gdp": "76.9"
+  },
+  {
+    "country_name": "Colombia",
+    "debt_to_gdp": "61.1"
+  },
+  {
+    "country_name": "Comoros",
+    "debt_to_gdp": "31.1"
+  },
+  {
+    "country_name": "Congo",
+    "debt_to_gdp": "14.7"
+  },
+  {
+    "country_name": "Costa Rica",
+    "debt_to_gdp": "78.64"
+  },
+  {
+    "country_name": "Croatia",
+    "debt_to_gdp": "78.4"
+  },
+  {
+    "country_name": "Cuba",
+    "debt_to_gdp": "117"
+  },
+  {
+    "country_name": "Cyprus",
+    "debt_to_gdp": "104"
+  },
+  {
+    "country_name": "Czech Republic",
+    "debt_to_gdp": "41.9"
+  },
+  {
+    "country_name": "Denmark",
+    "debt_to_gdp": "36.7"
+  },
+  {
+    "country_name": "Djibouti",
+    "debt_to_gdp": "43.2"
+  },
+  {
+    "country_name": "Dominican Republic",
+    "debt_to_gdp": "50.4"
+  },
+  {
+    "country_name": "Ecuador",
+    "debt_to_gdp": "59"
+  },
+  {
+    "country_name": "Egypt",
+    "debt_to_gdp": "87.2"
+  },
+  {
+    "country_name": "El Salvador",
+    "debt_to_gdp": "84.75"
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "debt_to_gdp": "27.1"
+  },
+  {
+    "country_name": "Eritrea",
+    "debt_to_gdp": "165"
+  },
+  {
+    "country_name": "Estonia",
+    "debt_to_gdp": "18.1"
+  },
+  {
+    "country_name": "Ethiopia",
+    "debt_to_gdp": "57"
+  },
+  {
+    "country_name": "Euro Area",
+    "debt_to_gdp": "95.6"
+  },
+  {
+    "country_name": "European Union",
+    "debt_to_gdp": "88.1"
+  },
+  {
+    "country_name": "Fiji",
+    "debt_to_gdp": "79.8"
+  },
+  {
+    "country_name": "Finland",
+    "debt_to_gdp": "72.4"
+  },
+  {
+    "country_name": "France",
+    "debt_to_gdp": "113"
+  },
+  {
+    "country_name": "Gabon",
+    "debt_to_gdp": "54"
+  },
+  {
+    "country_name": "Gambia",
+    "debt_to_gdp": "82.9"
+  },
+  {
+    "country_name": "Georgia",
+    "debt_to_gdp": "57.1"
+  },
+  {
+    "country_name": "Germany",
+    "debt_to_gdp": "69.3"
+  },
+  {
+    "country_name": "Ghana",
+    "debt_to_gdp": "81.8"
+  },
+  {
+    "country_name": "Greece",
+    "debt_to_gdp": "193"
+  },
+  {
+    "country_name": "Guatemala",
+    "debt_to_gdp": "29.98"
+  },
+  {
+    "country_name": "Guinea",
+    "debt_to_gdp": "43.3"
+  },
+  {
+    "country_name": "Guinea Bissau",
+    "debt_to_gdp": "41"
+  },
+  {
+    "country_name": "Guyana",
+    "debt_to_gdp": "43.7"
+  },
+  {
+    "country_name": "Haiti",
+    "debt_to_gdp": "23.1"
+  },
+  {
+    "country_name": "Honduras",
+    "debt_to_gdp": "51.46"
+  },
+  {
+    "country_name": "Hungary",
+    "debt_to_gdp": "73.5"
+  },
+  {
+    "country_name": "Iceland",
+    "debt_to_gdp": "75"
+  },
+  {
+    "country_name": "India",
+    "debt_to_gdp": "89.26"
+  },
+  {
+    "country_name": "Indonesia",
+    "debt_to_gdp": "40.9"
+  },
+  {
+    "country_name": "Iran",
+    "debt_to_gdp": "41.5"
+  },
+  {
+    "country_name": "Iraq",
+    "debt_to_gdp": "36.7"
+  },
+  {
+    "country_name": "Ireland",
+    "debt_to_gdp": "56"
+  },
+  {
+    "country_name": "Israel",
+    "debt_to_gdp": "60.9"
+  },
+  {
+    "country_name": "Italy",
+    "debt_to_gdp": "145"
+  },
+  {
+    "country_name": "Ivory Coast",
+    "debt_to_gdp": "51.4"
+  },
+  {
+    "country_name": "Jamaica",
+    "debt_to_gdp": "91.5"
+  },
+  {
+    "country_name": "Japan",
+    "debt_to_gdp": "262"
+  },
+  {
+    "country_name": "Jordan",
+    "debt_to_gdp": "89.4"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "debt_to_gdp": "27.4"
+  },
+  {
+    "country_name": "Kenya",
+    "debt_to_gdp": "68.4"
+  },
+  {
+    "country_name": "Kosovo",
+    "debt_to_gdp": "23.34"
+  },
+  {
+    "country_name": "Kuwait",
+    "debt_to_gdp": "7.1"
+  },
+  {
+    "country_name": "Kyrgyzstan",
+    "debt_to_gdp": "60.3"
+  },
+  {
+    "country_name": "Laos",
+    "debt_to_gdp": "53.81"
+  },
+  {
+    "country_name": "Latvia",
+    "debt_to_gdp": "44.8"
+  },
+  {
+    "country_name": "Lebanon",
+    "debt_to_gdp": "172"
+  },
+  {
+    "country_name": "Lesotho",
+    "debt_to_gdp": "54.7"
+  },
+  {
+    "country_name": "Liberia",
+    "debt_to_gdp": "55"
+  },
+  {
+    "country_name": "Libya",
+    "debt_to_gdp": "155"
+  },
+  {
+    "country_name": "Lithuania",
+    "debt_to_gdp": "44.3"
+  },
+  {
+    "country_name": "Luxembourg",
+    "debt_to_gdp": "24.5"
+  },
+  {
+    "country_name": "Macedonia",
+    "debt_to_gdp": "52"
+  },
+  {
+    "country_name": "Madagascar",
+    "debt_to_gdp": "36.2"
+  },
+  {
+    "country_name": "Malawi",
+    "debt_to_gdp": "58.8"
+  },
+  {
+    "country_name": "Malaysia",
+    "debt_to_gdp": "63.3"
+  },
+  {
+    "country_name": "Maldives",
+    "debt_to_gdp": "66.6"
+  },
+  {
+    "country_name": "Malta",
+    "debt_to_gdp": "57"
+  },
+  {
+    "country_name": "Mauritania",
+    "debt_to_gdp": "44.2"
+  },
+  {
+    "country_name": "Mauritius",
+    "debt_to_gdp": "89"
+  },
+  {
+    "country_name": "Mexico",
+    "debt_to_gdp": "49.6"
+  },
+  {
+    "country_name": "Moldova",
+    "debt_to_gdp": "32.1"
+  },
+  {
+    "country_name": "Mongolia",
+    "debt_to_gdp": "56"
+  },
+  {
+    "country_name": "Montenegro",
+    "debt_to_gdp": "83.27"
+  },
+  {
+    "country_name": "Morocco",
+    "debt_to_gdp": "77.9"
+  },
+  {
+    "country_name": "Mozambique",
+    "debt_to_gdp": "101"
+  },
+  {
+    "country_name": "Myanmar",
+    "debt_to_gdp": "62.5"
+  },
+  {
+    "country_name": "Namibia",
+    "debt_to_gdp": "76"
+  },
+  {
+    "country_name": "Nepal",
+    "debt_to_gdp": "40.5"
+  },
+  {
+    "country_name": "Netherlands",
+    "debt_to_gdp": "52.4"
+  },
+  {
+    "country_name": "New Zealand",
+    "debt_to_gdp": "30.1"
+  },
+  {
+    "country_name": "Nicaragua",
+    "debt_to_gdp": "64.8"
+  },
+  {
+    "country_name": "Niger",
+    "debt_to_gdp": "50.9"
+  },
+  {
+    "country_name": "Nigeria",
+    "debt_to_gdp": "37"
+  },
+  {
+    "country_name": "Norway",
+    "debt_to_gdp": "43.2"
+  },
+  {
+    "country_name": "Oman",
+    "debt_to_gdp": "67.7"
+  },
+  {
+    "country_name": "Pakistan",
+    "debt_to_gdp": "84"
+  },
+  {
+    "country_name": "Palestine",
+    "debt_to_gdp": "21.3"
+  },
+  {
+    "country_name": "Panama",
+    "debt_to_gdp": "63.66"
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "debt_to_gdp": "51.5"
+  },
+  {
+    "country_name": "Paraguay",
+    "debt_to_gdp": "34.6"
+  },
+  {
+    "country_name": "Peru",
+    "debt_to_gdp": "36"
+  },
+  {
+    "country_name": "Philippines",
+    "debt_to_gdp": "60.9"
+  },
+  {
+    "country_name": "Poland",
+    "debt_to_gdp": "53.8"
+  },
+  {
+    "country_name": "Portugal",
+    "debt_to_gdp": "127"
+  },
+  {
+    "country_name": "Qatar",
+    "debt_to_gdp": "46.9"
+  },
+  {
+    "country_name": "Republic of the Congo",
+    "debt_to_gdp": "85"
+  },
+  {
+    "country_name": "Romania",
+    "debt_to_gdp": "48.8"
+  },
+  {
+    "country_name": "Russia",
+    "debt_to_gdp": "18.2"
+  },
+  {
+    "country_name": "Rwanda",
+    "debt_to_gdp": "66.7"
+  },
+  {
+    "country_name": "Sao Tome and Principe",
+    "debt_to_gdp": "88"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "debt_to_gdp": "30"
+  },
+  {
+    "country_name": "Senegal",
+    "debt_to_gdp": "73"
+  },
+  {
+    "country_name": "Serbia",
+    "debt_to_gdp": "56.5"
+  },
+  {
+    "country_name": "Seychelles",
+    "debt_to_gdp": "74"
+  },
+  {
+    "country_name": "Sierra Leone",
+    "debt_to_gdp": "75"
+  },
+  {
+    "country_name": "Singapore",
+    "debt_to_gdp": "160"
+  },
+  {
+    "country_name": "Slovakia",
+    "debt_to_gdp": "63.1"
+  },
+  {
+    "country_name": "Slovenia",
+    "debt_to_gdp": "74.7"
+  },
+  {
+    "country_name": "South Africa",
+    "debt_to_gdp": "67.4"
+  },
+  {
+    "country_name": "South Korea",
+    "debt_to_gdp": "46.9"
+  },
+  {
+    "country_name": "Spain",
+    "debt_to_gdp": "118"
+  },
+  {
+    "country_name": "Sri Lanka",
+    "debt_to_gdp": "105"
+  },
+  {
+    "country_name": "Sudan",
+    "debt_to_gdp": "182"
+  },
+  {
+    "country_name": "Suriname",
+    "debt_to_gdp": "124"
+  },
+  {
+    "country_name": "Swaziland",
+    "debt_to_gdp": "36.8"
+  },
+  {
+    "country_name": "Sweden",
+    "debt_to_gdp": "36.7"
+  },
+  {
+    "country_name": "Switzerland",
+    "debt_to_gdp": "41.4"
+  },
+  {
+    "country_name": "Tajikistan",
+    "debt_to_gdp": "53.67"
+  },
+  {
+    "country_name": "Tanzania",
+    "debt_to_gdp": "37.3"
+  },
+  {
+    "country_name": "Thailand",
+    "debt_to_gdp": "59.61"
+  },
+  {
+    "country_name": "Togo",
+    "debt_to_gdp": "61"
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "debt_to_gdp": "83.3"
+  },
+  {
+    "country_name": "Tunisia",
+    "debt_to_gdp": "80"
+  },
+  {
+    "country_name": "Turkey",
+    "debt_to_gdp": "42"
+  },
+  {
+    "country_name": "Turkmenistan",
+    "debt_to_gdp": "8"
+  },
+  {
+    "country_name": "Uganda",
+    "debt_to_gdp": "51.7"
+  },
+  {
+    "country_name": "Ukraine",
+    "debt_to_gdp": "48.9"
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "debt_to_gdp": "38.3"
+  },
+  {
+    "country_name": "United Kingdom",
+    "debt_to_gdp": "97.4"
+  },
+  {
+    "country_name": "United States",
+    "debt_to_gdp": "129"
+  },
+  {
+    "country_name": "Uruguay",
+    "debt_to_gdp": "71.5"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "debt_to_gdp": "38"
+  },
+  {
+    "country_name": "Venezuela",
+    "debt_to_gdp": "241"
+  },
+  {
+    "country_name": "Vietnam",
+    "debt_to_gdp": "39.6"
+  },
+  {
+    "country_name": "Yemen",
+    "debt_to_gdp": "63.1"
+  },
+  {
+    "country_name": "Zambia",
+    "debt_to_gdp": "123"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "debt_to_gdp": "77.2"
+  }
+]
