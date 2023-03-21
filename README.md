@@ -2,8 +2,8 @@
 
 Collection consists of two parts:
 
-1. Asynchronous web scraping script using `BeautifulSoup` in combination with `asyncio` and `aiohttp`
-2. Scrapy spiders and crawlers built with `scrapy` and `splash`
+1. Scrapy spiders and crawlers built with `scrapy` and `splash`
+2. Asynchronous web scraping script using `BeautifulSoup` in combination with `asyncio` and `aiohttp`
 
 # Scrapy spiders and crawlers
 
