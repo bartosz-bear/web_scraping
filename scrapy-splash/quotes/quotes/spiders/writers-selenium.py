@@ -14,17 +14,18 @@ class WritersSpiderSelenium(scrapy.Spider):
 
     def __init__(self):
         chrome_options = Options()
-        #chrome_options.add_argument('--headless')
-        chrome_options.add_experimental_option('detach', True)
+        chrome_options.add_argument('--headless')
+        #chrome_options.add_experimental_option('detach', True)
         
         chrome_path = which('chromedriver')
         
 
         driver = webdriver.Chrome(executable_path=chrome_path, options=chrome_options)
+        driver.set_window_size(1920, 1080)
 
         driver.get('http://quotes.toscrape.com')
 
-        quote = driver.find_element('xpath', "//li[@class='next']")
+        quote = driver.find_element('xpath', "//li[@class='next']/a")
         quote.click()
 
         self.html = driver.page_source
@@ -33,8 +34,8 @@ class WritersSpiderSelenium(scrapy.Spider):
 
     def parse(self, response):
         
-        resp = Selector(text=self.html)
+        #resp = Selector(text=self.html)
 
-        inspect_response(self, resp)
+        inspect_response(response, self)
 
         yield {'test': 't'}
