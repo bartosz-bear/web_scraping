@@ -23,7 +23,7 @@ There are 7 scrapy spiders and crawlers organized in 4 scrapy projects, all livi
 
 7. `debt_to_gdp` spider scraping current Debt-to-GDP ratio for 173 countries, also from `https://www.worldometers.info`
 
-# Asynchronous web scraping script using `BeutifulSoup` with `asyncio` and `aiohttp`
+# Asynchronous web scraping script using `BeautifulSoup` with `asyncio` and `aiohttp`
 
 This is version 2.0 of a web scraping script which takes course category as input, scrapes all available courses from Coursera.org for the chosen category and saves them as an Excel file on your local drive. If you don't want to download the file and see the output in the console instead, comment out line 170 `df.to_excel('courses_final.xlsx', index=False, engine='xlsxwriter')`.
 
